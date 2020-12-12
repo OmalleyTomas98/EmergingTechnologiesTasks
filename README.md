@@ -39,14 +39,20 @@ Here is the documentation and answers to the tasks for the module Emerging Techn
 
 
 * [Windows 10  Installation   ](https://www.microsoft.com/en-gb/software-download/windows10) 
+  - Windows 10 is the Operating System used to Develope my Programs 
 * [Anaconda Installation   ](https://www.anaconda.com/) 
+  - Anaconda is a package tool that install Python(3.8) used largely by Data Scientists 
+
 * [Docker Installation](https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=nemea&utm_term=dockerhomepage&utm_budget=growth&gclid=Cj0KCQiA8dH-BRD_ARIsAC24umarjP9XjIo_qI0gCJSfvesHjGmRdcFrk3JSXOKtQsHPbueLkN-IHmEaAphBEALw_wcB)
+  - Docker is a set of platform as a service products that use OS-level virtualization to deliver software . Needed o. windows for Unix packages emulation
+  
 * [Jupyter Installation ](https://jupyter.org/)
+
+  - Jupyter Software support interactive data science and scientific computing across all programming languages 
 * [Git  Installation ](https://git-scm.com/downloads)
+  - Git is a distributed version-control system for tracking changes in any set of file.Used to maintain and update files in my Taskbook.
 * [Cmdr  Installation  ](https://cmder.net/)
-* [Cmdr  Installation  ](https://cmder.net/)
-
-
+  - Cmder  is a command  Line Interface emualtor used on windows to emulate the UNIX shell.
 
 ## Task 1 
 
