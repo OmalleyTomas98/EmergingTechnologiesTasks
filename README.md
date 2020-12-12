@@ -20,6 +20,30 @@ Here is the documentation and answers to the tasks for the module Emerging Techn
 
 
 
+## Module Enviroment 
+
+
+| Number | Software |
+| --- | --- |
+| 1 | Windows 10|
+| 2 | Anaconda|
+| 3 | Docker|
+| 4 | Jupyter|
+| 5 | Git|
+| 6 | Cmdr|
+
+
+- Underneath is a list of all the software needed and installed to develop my program  for the Module : Emerging Technologies 
+
+* [Anaconda Installation   ](https://www.anaconda.com/) 
+* [Docker Installation](https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=nemea&utm_term=dockerhomepage&utm_budget=growth&gclid=Cj0KCQiA8dH-BRD_ARIsAC24umarjP9XjIo_qI0gCJSfvesHjGmRdcFrk3JSXOKtQsHPbueLkN-IHmEaAphBEALw_wcB)
+* [Jupyter Installation ](https://jupyter.org/)
+
+* [Git  Installation ](https://git-scm.com/downloads)
+* [Cmdr  Installation  ](https://cmder.net/)
+
+
+
 ## Task 1 
 
 Created a jupyter journal with  a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library1 or otherwise. You should research the task first and include references and a description of your algorithm.The notebook can be found in Task folder 1.
@@ -39,4 +63,7 @@ Created a jupyter journal  with  a Python script to calculate the  two different
 ## Task 4 
 
 Created a jupyter journal  with  a Python script that implements the  scikit-learn class to apply k-means clustering to Fisher’s famous Iris data set.The notebook can be found in Task folder 4.
+
+
+
 
