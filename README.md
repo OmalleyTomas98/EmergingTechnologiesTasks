@@ -17,3 +17,14 @@ Here is the documentation and answers to the tasks for the module Emerging Techn
 | `Langauge` | Python |
 | `Weighting` | 50% |
 | `Year of Study` | 4 |
+
+
+
+## Task 1 
+
+
+## Task 2 
+
+## Task 3 
+
+## Task 4 
