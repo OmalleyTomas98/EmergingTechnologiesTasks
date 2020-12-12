@@ -31,8 +31,8 @@ Created a jupyter journal with  a Python script to prove Chi-squared test for in
 
 ## Task 3 
 
-Created a jupyter journal  with  a Python script
-
+Created a jupyter journal  with  a Python script to calculate the  two different versions of the standard deviation calculation, STDEV.P and  STDEV.S  
+ 
 
 ## Task 4 
 
