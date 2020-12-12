@@ -50,19 +50,19 @@ Here is the documentation and answers to the tasks for the module Emerging Techn
 
 ## Task 1 
 
-Created a jupyter journal with  a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library1 or otherwise. You should research the task first and include references and a description of your algorithm.The notebook can be found in Task folder 1.
+Created a jupyter journal with  a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library1 or otherwise. You should research the task first and include references and a description of your algorithm.The notebook can be found in Task folder 1. [Task folder 1](https://github.com/OmalleyTomas98/EmergingTechnologiesTasks/blob/main/TASK1/squareRootProblem.ipynb)
 
 
 
 ## Task 2 
 
-Created a jupyter journal with  a Python script to prove Chi-squared test for independence is a statistical hypothesis test like a t-test.With the use of the python class scipy.stats to verify this value and calculate the associated p value.The notebook can be found in Task folder 2.
+Created a jupyter journal with  a Python script to prove Chi-squared test for independence is a statistical hypothesis test like a t-test.With the use of the python class scipy.stats to verify this value and calculate the associated p value.The notebook can be found in [Task folder 2](https://github.com/OmalleyTomas98/EmergingTechnologiesTasks/blob/main/TASK2/chi-squaredTest.ipynb)
 
 ## Task 3 
 
-Created a jupyter journal  with  a Python script to calculate the  two different versions of the standard deviation calculation, STDEV.P and  STDEV.S .The notebook can be found in Task folder 3.
+Created a jupyter journal  with  a Python script to calculate the  two different versions of the standard deviation calculation, STDEV.P and  STDEV.S .The notebook can be found in [Task folder 3](https://github.com/OmalleyTomas98/EmergingTechnologiesTasks/blob/main/TASK3/standardDeviation.ipynb)
  
 
 ## Task 4 
 
-Created a jupyter journal  with  a Python script that implements the  scikit-learn class to apply k-means clustering to Fisher’s famous Iris data set.The notebook can be found in Task folder 4.
+Created a jupyter journal  with  a Python script that implements the  scikit-learn class to apply k-means clustering to Fisher’s famous Iris data set.The notebook can be found in [Task folder 4](https://github.com/OmalleyTomas98/EmergingTechnologiesTasks/blob/main/TASK4/kmeansClustering.ipynb)
