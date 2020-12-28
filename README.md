@@ -65,7 +65,7 @@ Here is the documentation and answers to the tasks for the module Emerging Techn
 
 ## Task 1 
 
-Created a jupyter journal with  a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library1 or otherwise. You should research the task first and include references and a description of your algorithm.The notebook can be found in Task folder 1. [Task folder 1](https://github.com/OmalleyTomas98/EmergingTechnologiesTasks/blob/main/TASK1/squareRootProblem.ipynb)
+Created a jupyter journal with  a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. My code did  not depend on any module from the standard library1 or otherwise. You should research the task first and include references and a description of your algorithm.The notebook can be found in Task folder 1. [Task folder 1](https://github.com/OmalleyTomas98/EmergingTechnologiesTasks/blob/main/TASK1/squareRootProblem.ipynb)
 
 
 ## Task 2 
